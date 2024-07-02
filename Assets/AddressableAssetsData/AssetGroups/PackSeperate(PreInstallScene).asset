@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: PackSeperate(PreInstallScene)
+  m_EditorClassIdentifier: 
+  m_GroupName: PackSeperate(PreInstallScene)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6678a0aff6f391d4cb6324ecc4bed40c
+  m_SerializeEntries:
+  - m_GUID: f215eb41708d8994fa82ddab9d8fc93a
+    m_Address: Assets/StreamingAsset/Texture/Background.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c04b04639cb82614898925325e266e5c
+    m_Address: Assets/StreamingAsset/Texture/Logo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7a9670282b985d4a947f2d64785c3ec
+    m_Address: Assets/StreamingAsset/Texture/barLoading.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 59e9b79c51276724ba42083dfefbdf9b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 93958dcc263684044bb414c87b001b2f, type: 2}
+    - {fileID: 11400000, guid: 78180fe36aac9ca4b81aedc89b8724f2, type: 2}

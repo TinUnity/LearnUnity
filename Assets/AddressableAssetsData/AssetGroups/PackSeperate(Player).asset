@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: PackSeperate(Player)
+  m_EditorClassIdentifier: 
+  m_GroupName: PackSeperate(Player)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2678af5b99f5e1d45ba1b110858b97fa
+  m_SerializeEntries:
+  - m_GUID: 3bb3084fc1d29474496797b0beb92182
+    m_Address: Capsule
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Login
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb52c7391c381da44a52ee7d31dc9a7e
+    m_Address: Assets/Prefab/Sphere.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Login
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55230a2c653c9764c8ab7ee88871fa00
+    m_Address: Assets/Prefab/Cylinder.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Login
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb65156dfa728d345a165a577e0c3a4d
+    m_Address: Assets/StreamingAsset/Texture/Player.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 59e9b79c51276724ba42083dfefbdf9b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 342ad65e10611144391823d33601c75e, type: 2}
+    - {fileID: 11400000, guid: 1f761e27d7e88414db55545e1a003b11, type: 2}

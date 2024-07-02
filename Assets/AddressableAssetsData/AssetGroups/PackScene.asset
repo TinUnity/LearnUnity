@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: PackScene
+  m_EditorClassIdentifier: 
+  m_GroupName: PackScene
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0ccd1bac3773417488c9fbce637eac9d
+  m_SerializeEntries:
+  - m_GUID: 7eeeae2ac29aced45a44a1b0eebc5151
+    m_Address: Assets/Scenes/LobbyScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LobbyScene
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0eaede48e4df814b8462e58906a09e8
+    m_Address: Assets/Scenes/LoginScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LoginScene
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 59e9b79c51276724ba42083dfefbdf9b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 458c2f3bbc28fbc4fbbe6dacacdf44fc, type: 2}
+    - {fileID: 11400000, guid: ce589c9adbbce434380c3af6635bf7c3, type: 2}

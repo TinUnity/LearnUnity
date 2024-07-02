@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caf4be73f01d2d545b2591bb5e16014b, type: 3}
+  m_Name: Product
+  m_EditorClassIdentifier: 
+  apiHosting: https://restfull-api.vercel.app/
+  assetsHosting: 
+  apiDomainS0: {fileID: 11400000, guid: 842992dff9d651f4bb00daf3edf51cee, type: 2}
